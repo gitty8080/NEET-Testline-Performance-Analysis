@@ -1,0 +1,11 @@
+matplotlib
+numpy
+pandas
+requests
+scikit-learn
+streamlit
+transformers
+tensorflow
+torch
+torchvision
+
